@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UC_Admin\UC_AddUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Admin\UC_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Admin\UC_UpdateUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Admin\UC_ViewUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_AddInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_AddMedicine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_InvoiceManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_MedicineCate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_MedicineList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_MedicineValid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_SellMedicine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NhaThuoc\UC_UpdateMedicine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Window1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
